@@ -41,5 +41,3 @@ Otherwise, run main.py manually.
 ## 🧠 Credits
 - Based on the original **Chrome Dino** game by Google.
 - Display driver based on the work of [GuyCarver](https://github.com/GuyCarver), author of the original ST7735 MicroPython driver.
-
-
