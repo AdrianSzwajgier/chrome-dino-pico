@@ -1,3 +1,5 @@
+![WIP](https://img.shields.io/badge/status-work--in--progress-yellow)
+
 # 🦖 Chrome Dino for Pico
 
 A minimalist clone of the Chrome Dino game, built for the Raspberry Pi Pico microcontroller and ST7735 OLED display. Assets are preprocessed on PC using Python, then rendered on Pico with MicroPython.
